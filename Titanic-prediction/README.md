@@ -10,5 +10,4 @@ In this challenge, we ask you to build a predictive model that answers the quest
 My hypothesis are:
 1. The one who owned 1st class tickets is likely to survive
 2. Women and kids are likely to survive
-3. The crew are likely not survive
-4. The one with high socio-economic class is likely to survive
+3. The one with high socio-economic class is likely to survive
